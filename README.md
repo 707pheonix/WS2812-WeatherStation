@@ -12,7 +12,7 @@ ArduinoJson.h
 Initial Attempt on working with Animation 
 ** looks :(
 
-![Image of InitialImage](https://drive.google.com/file/d/14o9brdPpndwje5STs2UmHBW0WLKONTCV/view?usp=sharing)
+![Image of InitialImage](https://github.com/707pheonix/WS2812-WeatherStation/blob/master/Initial.jpg)
 
 
 Approach 2nd , making 3 page laypout with simple push button to interrupt and switch page
