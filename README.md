@@ -12,6 +12,8 @@ ArduinoJson.h
 Initial Attempt on working with Animation 
 ** looks :(
 
+![Image of InitialImage](https://drive.google.com/file/d/14o9brdPpndwje5STs2UmHBW0WLKONTCV/view?usp=sharing)
+
 
 Approach 2nd , making 3 page laypout with simple push button to interrupt and switch page
 1. Clock
