@@ -2,10 +2,10 @@
 weather station based on WS2812B 8X32 LED matrix 
 
 Libraries used :
-FastLED.h
-ESP8266WiFi.h
-time.h
-ArduinoJson.h
+- FastLED.h
+- ESP8266WiFi.h
+- time.h
+- ArduinoJson.h
 
 3 pages can be toggled with top buttons included into the outer packing .
 
@@ -21,6 +21,10 @@ Approach 2nd , making 3 page laypout with simple push button to interrupt and sw
 3. Weather
 
 and wraping LED matrix in a DIY case using ice-cream stciks:
+![Image of InitialImage](https://github.com/707pheonix/WS2812-WeatherStation/blob/master/DIYIceCreamstickCase_Inprogress.jpg)
 
-  
+and final end product looks amazing :
+
+https://youtu.be/aLtoHWUXIFs
+
 
